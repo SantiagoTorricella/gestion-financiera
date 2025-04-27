@@ -9,4 +9,4 @@ App para poder trackear los gastos personales de las personas.
     - Estos gastos se pueden agrupar en categorias
 - Grupos familiares
     - Trackeo de Ingresos/Gastos por miembro familiar
-- Se vienen cositas 😈😈😈s
+- Se vienen cositas 😈😈😈
